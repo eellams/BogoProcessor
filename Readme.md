@@ -3,6 +3,8 @@ BogoProcessor
 
 A silly simulation of a processor, where there is only one compulaory operation, that loads the contents of a source register into the destination register.
 
+This is very much still just a concept. Maybe I'll get round to actually finishing this some day.
+
 Every instruction is therefore composed of two equal width values, the source and address. Each operation takes one clock cycle.
 
 | Upper half  | Lower half |
